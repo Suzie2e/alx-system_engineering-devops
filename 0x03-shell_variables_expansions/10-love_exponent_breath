@@ -1,2 +1,2 @@
 #!/bin/bash
-e ho $((BREATH**LOVE))
+echo $((BREATH**LOVE))
